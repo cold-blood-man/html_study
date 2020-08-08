@@ -1,3 +1,4 @@
 This example Git text file
 the end
 sorry, this is not the end at all
+this is the beginning

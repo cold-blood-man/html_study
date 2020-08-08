@@ -3,8 +3,8 @@ body {
   font-family: "Arial", sans-serif;
   font-size: 14px;
   line-height: 18px;
-  color: #000000;
-  background: #ffffff url("img/keks-background.jpg") no-repeat 50% 0;
+  color: #cccccc;
+  background: #000000 url("img/keks-background-dark.jpg") no-repeat 50% 0;
 }
 
 h1 {
@@ -39,7 +39,7 @@ h2 {
 
 .vip {
   border-color: #ff5a26;
-  color: #000000;
+  color: #cccccc;
 }
 
 .container {
